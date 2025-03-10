@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/VKTREMBALA/count.svg?"  />
+</div>
+
 ###
 
 <br clear="both">
