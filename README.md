@@ -27,6 +27,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VKTREMBALA/VKTREMBALA/output/snake.svg" alt="Snake animation" />
-
 ###
