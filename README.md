@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portifolio-devgustavo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/Gustavosareto">
     <img src="https://img.shields.io/github/followers/Gustavosareto?label=Followers&style=for-the-badge" />
   </a>
@@ -28,10 +31,6 @@ I’m passionate about technology and focused on building solid foundations in s
 backend systems, APIs, automation, and clean, scalable code.
 </p>
 
-<p>
-I enjoy learning by doing and continuously improving my skills through personal projects and studies.
-</p>
-
 ---
 
 <h3 align="center">📊 GitHub Analytics</h3>
@@ -42,7 +41,7 @@ I enjoy learning by doing and continuously improving my skills through personal 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavosareto&layout=compact&langs_count=6&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavosareto&layout=compact&langs_count=8&theme=dracula" 
     height="160"
   />
 </div>
@@ -52,13 +51,24 @@ I enjoy learning by doing and continuously improving my skills through personal 
 <h3>🧰 Tech Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36"/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
   <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
   <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
   <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
+
+  <!-- Backend / Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+  <img width="14"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/>
 </div>
 
 ---
