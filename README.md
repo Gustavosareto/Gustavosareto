@@ -22,7 +22,7 @@
 <h3>🌍 About Me</h3>
 
 <p>
-I'm <strong>Gustavo Sareto Ribeiro</strong>, a 23-year-old Software Development student from Brazil.
+I'm <strong>Gustavo Sareto Ribeiro</strong>, a 24-year-old Software Development student from Brazil.
 Currently pursuing a degree in <strong>Analysis & Systems Development</strong> at <strong>Uniavan</strong>.
 </p>
 
