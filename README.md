@@ -120,9 +120,8 @@ A modern B2B SaaS platform focused on clinics and healthcare professionals.
 <h2>🌐 Connect With Me</h2>
 
 <p>
-  📧 Email: your-email@email.com<br/>
-  💼 LinkedIn: linkedin.com/in/seuusuario<br/>
-  🐙 GitHub: github.com/seuusuario
+  📧 Email: gustavosareto1@gmail.com<br/>
+  🐙 GitHub: github.com/Gustavosareto/
 </p>
 
 ---
